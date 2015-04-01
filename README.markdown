@@ -22,10 +22,9 @@ from your local development machine when internet access is lacking.
 ## Author
 
 [Ryan McGeary](http://ryan.mcgeary.org) ([@rmm5t](http://twitter.com/rmm5t))
-http://superkuh.com/ajaxgoogleapis.html
+[superkuh](http://superkuh.com/ajaxgoogleapis.html)
+
 
 ## Other
 
 [MIT License](http://www.opensource.org/licenses/mit-license.php)
-
-Copyright (c) 2010, Ryan McGeary (ryan -[at]- mcgeary [*dot*] org)
