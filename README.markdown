@@ -15,7 +15,20 @@ from your local development machine when internet access is lacking.
 **Step 2:** If you aren't on OS X, you can alternatively map ajax.googleapis.com to
 127.0.0.1 using `/etc/hosts` or any equivalent. 
 
-**Step 3:**  `npm install`
+**Step 3:**  `npm install`. Now you should have the following dir hierarchy:
+
+googleapis-mirror/
+├── README.markdown
+├── ajax.googleapis.com
+│   └── ajax
+├── build-local-cache.sh
+├── libraries.txt
+├── make-alias.sh
+├── node_modules
+│   └── express
+├── package.json
+└── server.js
+
 
 **Step 4:**  `sudo node server.js`. you may like to run it using forever `sudo forever server.js`
 
