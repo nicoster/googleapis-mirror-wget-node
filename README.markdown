@@ -17,6 +17,7 @@ from your local development machine when internet access is lacking.
 
 **Step 3:**  `npm install`. Now you should have the following dir hierarchy:
 
+```javascript
 googleapis-mirror/
 ├── README.markdown
 ├── ajax.googleapis.com
@@ -28,7 +29,7 @@ googleapis-mirror/
 │   └── express
 ├── package.json
 └── server.js
-
+```
 
 **Step 4:**  `sudo node server.js`. you may like to run it using forever `sudo forever server.js`
 
