@@ -1,0 +1,8 @@
+{
+  "name": "googleapis-mirror",
+  "description": "a local mirror for googleapis",
+  "version": "1.1.0",
+  "dependencies": {
+    "express": "~4.10.2"
+  }
+}
